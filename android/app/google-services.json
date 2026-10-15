@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "545705118124",
+    "firebase_url": "https://iot26-02-default-rtdb.firebaseio.com",
+    "project_id": "iot26-02",
+    "storage_bucket": "iot26-02.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545705118124:android:1648308942bbd53c1f5209",
+        "android_client_info": {
+          "package_name": "com.example.esiot_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545705118124-1ipmm55nch0j0cr6hbc7vc5i6jtlf7ud.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.esiot_flutter",
+            "certificate_hash": "2d4b020c8c994c669fbe772050b2827ae5a5ade6"
+          }
+        },
+        {
+          "client_id": "545705118124-67p162jfabllpslb6kmvtal68q77k2is.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFhmYUqPE3O5LIblGpGnxJoLcsKNJJG-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545705118124-67p162jfabllpslb6kmvtal68q77k2is.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "545705118124-g93ssfsuk9creeu5ac301dbth6l5c1bh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.esiotFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
